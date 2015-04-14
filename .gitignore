@@ -1,14 +1,13 @@
-# maven
-target
-
-# eclipse
+# Eclipse project files
 .classpath
 .project
-.settings
+.settings/
 
 # eclipse
-.idea
-/*.iml
+*.iml
+.idea/
 
-# other
-local-script
+
+# Others
+target/
+logs/
